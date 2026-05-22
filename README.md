@@ -4,10 +4,6 @@ This repository is the public download and auto-update channel for
 **IkeSelect**, a drag-and-drop character-select-screen editor for
 IKEMEN GO.
 
-The IkeSelect source code is kept in a separate, private repository.
-This repo holds only the compiled release binaries, which lets the
-app check for and install updates without anyone needing to log in.
-
 ## Download
 
 Get the latest build from the
